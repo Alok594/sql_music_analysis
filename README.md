@@ -1,4 +1,4 @@
-# SQL_Project_Music_Store_Analysis
+# TuneTrends_Analyzer 
 
 # Project Objective
 
